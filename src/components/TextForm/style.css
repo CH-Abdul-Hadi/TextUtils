@@ -1,0 +1,12 @@
+.btn-primary:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
+}
+.card {
+  border: none;
+  border-radius: 8px;
+}
+textarea:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
